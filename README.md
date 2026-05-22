@@ -13,5 +13,3 @@ Here I simply collect my running data to the file `run.csv`. Explanations of the
 - `distance`: The running distance.
 
 - `speed`: Speed in min/km.
-
-- `time`: Time in minutes.
