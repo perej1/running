@@ -5,3 +5,5 @@ year,month,day,weekday,distance,speed_avg,speed_max,bpm_avg,bpm_max
 2026,5,21,thu,0,,,,
 2026,5,22,fri,11,5.51,,,
 2026,5,23,sat,7.92,5.19,3.56,165,180
+2026,5,24,sun,0,,,,
+2026,5,25,mon,20,6,4.5,155,167
