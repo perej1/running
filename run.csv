@@ -19,3 +19,6 @@ year,month,day,weekday,distance,speed_avg,bpm_avg
 2026,6,4,thu,10.09,6.29,147
 2026,6,5,fri,0,,
 2026,6,6,sat,10.1,5.47,168
+2026,6,7,sun,0,,
+2026,6,8,mon,24,6,161
+2026,6,9,tue,0,,
